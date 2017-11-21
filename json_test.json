@@ -1,17 +1,34 @@
 {
     "videos": [
         {
-            "source": "https://www.youtube.com/watch?v=ShLTI5xgoFA",
+            "source": "https://www.youtube.com/watch?v=gFSRgoT7dDE",
+            "subtitle": "",
+            "starttime": 0
+        },
+        {
+            "source": "https://www.youtube.com/watch?v=vWdy40T0XyI",
+            "subtitle": "",
+            "starttime": 0
+        },
+        {
+            "source": "https://www.youtube.com/watch?v=RQXe22auYOw",
+            "subtitle": "",
+            "starttime": 0
+        },
+        {
+            "source": "http://mcsw.us/vrc/vidstore/pennyball.mp4",
+            "subtitle": "",
+            "starttime": 0
+        },
+        {
+            "source": "http://mcsw.us/vrc/vidstore/shopkeepintro.mp4",
             "subtitle": "",
             "starttime": 0
         }
     ],
-    "schedule": "2017-03-31T19:00:43.000Z",
-    "loop": false,
-    "volume": 1,
-    "paused": false,
-    "showui": false,
-    "syncrate": 8000,
-    "syncallowance": 0.5,
-    "checkinterval": -1
+    "schedule": "2017-06-27T08:30:30.000Z",
+    "loop": true,
+    "volume": 0.25,
+    "status": 0,
+    "checkinterval": 10000
 }
